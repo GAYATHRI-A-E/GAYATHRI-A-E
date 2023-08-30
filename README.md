@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 
-I'm **GAYATHRI A E** 
+I'm **GAYATHRI A E** , a Python Developer
 
-I'm a <b>Python Developer</b>
 
 ## About Me:
 
@@ -17,6 +16,9 @@ I'm a <b>Python Developer</b>
 
 ## 🚀 Languages Known: ##
 
-<img src = "https://contentstatic.techgig.com/photo/90325682.cms">
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png"
+<p align="left"> 
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png"/> </a>
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+</p>
